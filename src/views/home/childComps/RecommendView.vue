@@ -8,7 +8,6 @@
     </div>
   </div>
 </template>
-
 <script>
   export default {
     name: "RecommendView",
@@ -22,7 +21,6 @@
     }
   }
 </script>
-
 <style scoped>
   .recommend{
     display: flex;
