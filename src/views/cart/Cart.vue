@@ -5,6 +5,7 @@
     </nav-bar>
     <cart-list></cart-list>
     <cart-bottom>
+        <div>我是main分支</div>
     </cart-bottom>
     <div>我是main分支</div>
   </div>
