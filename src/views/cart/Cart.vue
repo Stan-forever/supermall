@@ -5,7 +5,8 @@
     </nav-bar>
     <cart-list></cart-list>
     <cart-bottom></cart-bottom>
-    <div>分支合并测试main分支</div>
+    <div>main分支</div>
+    <div>分支合并测试merge分支</div>
   </div>
 </template>
 
