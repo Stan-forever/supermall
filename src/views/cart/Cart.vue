@@ -5,8 +5,9 @@
     </nav-bar>
     <cart-list></cart-list>
     <cart-bottom>
+        <div>我是newbranch分支</div>
     </cart-bottom>
-    <div>我是newbranch分支</div>
+    
   </div>
 </template>
 
