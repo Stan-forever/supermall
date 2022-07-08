@@ -3,7 +3,7 @@
     <nav-bar class="cart-nav">
       <div slot="center">购物车({{length}})</div>
     </nav-bar>
-    <cart-list></cart-list>
+    <cart-list><div>test</div></cart-list>
     <cart-bottom></cart-bottom>
     <div>newbranch分支</div>
   </div>
