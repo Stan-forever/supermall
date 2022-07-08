@@ -4,9 +4,10 @@
       <div slot="center">购物车({{length}})</div>
     </nav-bar>
     <cart-list></cart-list>
-    <cart-bottom></cart-bottom>
-    <div>main分支</div>
-    <div>分支合并测试merge分支</div>
+    <cart-bottom>
+        <div>test</div>
+    </cart-bottom>
+    <div>newbranch分支</div>
   </div>
 </template>
 
