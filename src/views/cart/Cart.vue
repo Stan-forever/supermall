@@ -3,8 +3,10 @@
     <nav-bar class="cart-nav">
       <div slot="center">购物车({{length}})</div>
     </nav-bar>
-    <cart-list><div>test</div></cart-list>
-    <cart-bottom></cart-bottom>
+    <cart-list></cart-list>
+    <cart-bottom>
+        <div>test</div>
+    </cart-bottom>
     <div>newbranch分支</div>
   </div>
 </template>
